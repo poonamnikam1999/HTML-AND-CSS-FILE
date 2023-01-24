@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    height: 100vh;
+    width: 1400px;
+    background-color: aqua;
+}
+
+@media all and (max-width:1200px){
+    main{
+        background-color: red;
+    }
+
+}
+
+@media all and (max-width:1000px){
+    main{
+        background-color: green;
+    }
+
+}
+
+@media all and (max-width:800px){
+    main{
+        background-color: purple;
+    }
+
+}
+
+@media all and (max-width:600px){
+    main{
+        background-color: orange;
+    }
+
+}

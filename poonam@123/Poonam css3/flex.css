@@ -1,0 +1,52 @@
+.flexcontainer{
+    height: 60%;
+    border: 1px red solid;
+    display: flex;
+
+}
+
+.flexitem{
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.item1{
+    height: 50px;
+    background-color: blue;
+   
+}
+.item2{
+    height: 50px;
+    background-color: brown;
+    flex-shrink: 3;
+}
+.item3{
+    height: 50px;
+    background-color: blueviolet;
+    
+}
+.item4{
+    height: 50px;
+    background-color: aqua;
+    order: 1;
+    flex-grow: 2;
+    
+}
+.item5{
+    height: 50px;
+    background-color: chartreuse;
+    flex-grow: 3;
+}
+.item6{
+    height: 50px;
+    background-color: crimson;
+}
+.item7{
+    height: 50px;
+    background-color: darkgreen;
+}
+.item8{
+    height: 50px;
+    background-color: orange;
+}

@@ -1,0 +1,10 @@
+div{
+ height:1000px;
+ width:800px;
+ background-color:orange;
+ background-image: url("./image/pic.jpeg");
+ background-repeat: no-repeat;
+ background-attachment:fixed;
+ background-position:center;
+
+}

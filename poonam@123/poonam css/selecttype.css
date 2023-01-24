@@ -1,0 +1,36 @@
+.div1{
+ height:200px;
+ width:200px;
+ border:2px blue solid;
+}
+.div2{
+ height:200px;
+ width:200px;
+ border:2px purple solid;
+ position:relative;
+ left:50px;
+}
+#sai{
+	border:4px red dotted;
+}
+*{
+	color:black;
+	background-color:yellow;
+}
+h1,b{
+	text-align:center;
+	color:green;
+	background-color:pink;
+}
+ul li{
+	
+	visibility:hidden;
+}
+ol li{
+	
+	display:none;
+}
+h2{
+	
+	display:inline;
+}

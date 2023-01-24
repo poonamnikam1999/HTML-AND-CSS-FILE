@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height:1000px;
+    width:900px;
+    background-color: black;
+    margin:auto;
+}
+.header{
+   height: 130px; 
+   width: 900px;
+   background-color: red;
+}
+.menu{
+    height: 40px;
+    width: 900px;
+    background-color: lime;
+}
+.banner{
+    height: 700px;
+    width: 900px;
+    background-color: brown;
+}
+.cont{
+    height:700px ;
+    width:200px ;
+    background-color: blue;
+    float: left;
+}
+.gallary{
+    height:700px ;
+    width:500px ;
+    background-color: gold;
+    float: left;
+}
+.img{
+    height:700px ;
+    width:200px ;
+    background-color: aqua;
+    float: left;
+}
+.footer{
+    height: 130px; 
+   width: 900px;
+   background-color: orangered;
+}

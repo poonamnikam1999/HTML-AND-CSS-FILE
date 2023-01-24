@@ -1,0 +1,26 @@
+.type1{
+ height:300px;
+ width:400px;
+ border:2px red solid;
+
+}
+.type2{
+ height:300px;
+ width:400px;
+ border:2px red solid;
+ position:relative;
+ left:50px;
+}
+
+#sam{
+	border:2px black solid;
+}
+/*{
+	color:blue;
+	background-color:pink;
+*/
+h1,b,i{
+	color:black;
+	background-color:pink;
+	
+}

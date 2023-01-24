@@ -1,0 +1,54 @@
+main{
+    height: 900px;
+    width: 1000px;
+    background-color: black;
+    margin: auto;
+}
+header{
+    height: 150px;
+    width: 1000px;
+    background-color: aqua;
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    background-color: yellow;
+    float: left;
+}
+
+section{
+    height: 600px;
+    width: 600px;
+    background-color: yellowgreen;
+    float: left;
+}
+aside{
+    height: 600px;
+    width: 200px;
+    background-color: red;
+    float: right;
+}
+
+footer{
+    height: 150px;
+    width: 1000px;
+    background-color:brown;
+    float: left;
+}
+.head{
+    height: 100px;
+    width: 600px;
+    background-color: blue;
+}
+.art{
+    height: 400px;
+    width:600px ;
+    background-color:palevioletred;
+  background-image: url(images/ecommerce.jpg);
+}
+.foot{
+    height: 100px;
+    width: 600px;
+    background-color: green;
+}

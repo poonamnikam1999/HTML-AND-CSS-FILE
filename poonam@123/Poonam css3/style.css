@@ -1,0 +1,49 @@
+.flexcontainer{
+    height: 500px;
+    border: 1px blue solid;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: center;
+  align-items: flex-end;
+}
+.item1{
+    height: 60px;
+    background-color: aqua;
+    
+}
+.item2{
+    height: 60px;
+    background-color: red;
+    
+}
+.item3{
+    height: 60px;
+    background-color: purple;
+    
+}
+.item4{
+    height: 60px;
+    background-color: yellow;
+    
+}
+.item5{
+    height: 60px;
+    background-color: brown;
+    
+}
+.item6{
+    height: 60px;
+    background-color: green;
+    
+}
+.item7{
+    height: 60px;
+    background-color: darkorchid;
+    
+}
+.item8{
+    height: 60px;
+    background-color: orange;
+    
+}

@@ -1,0 +1,35 @@
+main{
+    height: 750px;
+    width: 850px;
+    background-color: aqua;
+    margin: auto;
+}
+header{
+    height: 150px;
+    width: 850px;
+    background-color: red;
+}
+section{
+    height:300px ;
+    width:500px ;
+    background-color: blue;
+    float: left;
+}
+aside{
+    height:450px ;
+    width: 350px;
+    background-color: cornflowerblue;
+    float: right;
+}
+article{
+    height:150px ;
+    width:500px ;
+    background-color:lightcoral;
+    float: left;
+}
+footer{
+    height: 150px;
+    width: 850px;
+    background-color: chartreuse;
+    float: left;
+}

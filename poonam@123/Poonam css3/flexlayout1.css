@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: aqua;
+    height: 20%;
+}
+menu{
+    background-color: brown;
+    height: 10%;
+}
+main{
+    background-color: orangered;
+    height: 60%;
+    display: flex;
+}
+nav{
+    background-color: crimson;
+    flex-basis: 30%;
+}
+section{
+    background-color: cyan;
+    flex-basis: 50%;
+    display: flex;
+    align-items: flex-end;
+}
+.img{
+    background-color: blueviolet;
+    height: 60px;
+    margin: 5px;
+    width: 70px;
+    flex
+   
+}
+article{
+    background-color: deeppink;
+    flex-basis: 20%;
+}
+footer{
+    background-color: green;
+    height: 10%;
+}

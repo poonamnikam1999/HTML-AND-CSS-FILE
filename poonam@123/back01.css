@@ -1,0 +1,16 @@
+body{
+ height:700px;
+ width:900px;
+ background-color:orange;
+ background-image: url("./images/background01.jpeg");
+ background-repeat: no-repeat;
+ background-attachment:fixed;
+}
+h1{
+
+	visibility:hidden;
+}
+h2{
+	display:inline;
+	
+}

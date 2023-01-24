@@ -1,0 +1,21 @@
+.div1{
+    height: 200px;
+    width: 150px;
+    background-color: aqua;
+   
+    float: left;
+}
+.div2{
+    height: 200px;
+    width: 150px;
+    background-color: red;
+    background-image: url("./images/background01.jpeg");
+    float: left;
+}
+.div3{
+    height: 200px;
+    width: 150px;
+    background-color: blue;
+    
+    float: left;
+}

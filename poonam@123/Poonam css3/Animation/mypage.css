@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container{
+
+    display: flex;
+    flex-direction: row;
+    
+
+
+}
+
+.text{
+    font-size: 20px;
+    line-height: 50px;
+
+}
+
+.item1{
+
+    background-color: red;
+    flex-basis: 25%;
+    height: 50px;
+
+}
+
+.item2{
+    background-color: yellow;
+    flex-basis: 25%;
+    height: 50px;
+
+}
+
+.item3{
+    background-color: green;
+    flex-basis: 50%;
+    height: 50px;
+
+}
+
+@media screen and (max-width:1024px){
+    .flex-container{
+
+        flex-direction: row;
+
+    }
+}
+
+@media screen and (max-width:320px){
+    .flex-container{
+
+        flex-direction: column;
+
+    }
+}

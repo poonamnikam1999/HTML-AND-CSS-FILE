@@ -1,0 +1,20 @@
+.container{
+    height: 100vh;
+    background-color: aquamarine;
+}
+header{
+    height: 10%;
+    background-color: cadetblue;
+}
+nav{
+    height: 10%;
+    background-color: green;
+}
+main{
+    height: 70%;
+    background-color: aqua;
+}
+footer{
+    height: 10%;
+    background-color: cyan;
+}

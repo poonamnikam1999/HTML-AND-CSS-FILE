@@ -1,0 +1,38 @@
+:root{
+    --text-color:purple;
+    --font-style:Impact;
+}
+
+.one{
+    color: var(--text-color);
+
+}
+
+.two{
+color: var(--text-color);
+font-family: var(--font-style);
+}
+
+.three{
+color: var(--text-color);
+}
+
+.four{
+color: var(--text-color);
+}
+
+.style{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 20px;
+ 
+}
+
+.style:hover{
+    transition: 2s;
+    background-color: green;
+}

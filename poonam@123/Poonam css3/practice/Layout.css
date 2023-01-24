@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+   background-color: yellow;
+   float: left;
+   width: 96%;
+   margin: 0 auto;
+   margin-left: 2%;
+   margin-right: 2%;
+}
+.cont{
+    height: 546px;
+    width: 24%;
+    background-color: blue;
+    float: left;
+    margin-left: 15px;
+}
+.card-header{
+    height: 245px;
+    width:24%;
+    background-color: aliceblue;
+}
+
+
+
+.card-body h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.card-body p{
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 20px;
+    
+}
+
+.btn button{
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    margin-left: 25px;
+}

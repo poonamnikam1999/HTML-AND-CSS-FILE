@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h3{
+    color: aqua;
+    
+    animation-name: textAnimation;
+    animation-duration: 7s;
+    animation-delay: 3s;
+    animation-iteration-count: 4;
+}
+@keyframes textAnimation{
+    10%{color: red; font-family: monospace; transform: translateX(200px);}
+    20%{color: blue; font-size: 60px; text-shadow: 9px 5px 5px red;}
+    30%{color: purple; transform: rotatex(45deg);}
+}

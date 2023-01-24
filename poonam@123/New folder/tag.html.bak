@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tags</title>
+</head>
+<body>
+    <p>HTML</p>
+    <blockquote>
+        Hyper Text Markup Language..<q>HTML stands for Hyper Text Markup Language which is used for creating web
+            pages and web applications.</q><br>
+            <abbr title="Attribute Definition"> HTML attributes are provide additional information about html elements</abbr><br>
+               <cite>Address</cite> 
+
+               <address>
+                plot no.206, wing no.11,<br>
+                vinayak sociaty,sector no.9<br>
+                cidco internal road,navi mumbai,<br>
+                411011.
+               </address>
+
+
+               <iframe src="table.html" frameborder="0" height="200px" width="500px"></iframe>
+
+               <h3>This is clock Emoji &nbsp; &nbsp; &nbsp; &#9200;</h3>
+                  
+               <table>
+               <form action="" method="">
+                <tr>
+                    <td><label for=""> User Name</label>
+                <input type="text" placeholder="Enter Your User Name" name="username" required></td>
+            </tr>
+                
+        <tr>
+            <td><label for=""> Password</label>
+                <input type="password" placeholder="Enter Your password" name="password" required></td>
+            </tr>
+
+        <tr>
+            <td><label for=""> Confirm Password</label>
+                <input type="password" placeholder="Enter Your password" name="password" required></td>
+            </tr>
+
+        <tr>
+            <td><label for=""> Photos</label>
+                    <input type="file" required multiple></td>
+            </tr>
+
+        <tr>
+            <td><label>Country</label>
+           <select name="" id="" multiple size="5">
+                <option value="">India</option>
+                <option value="">America</option>
+                <option value="">Asia</option>
+                <option value="">Europe</option>
+                <option value="">Japan</option>
+                </select></td>
+            </tr>
+
+            <tr>
+                <td><label>Qualification</label>
+                <input type="checkbox" accesskey="p">SSC
+                <input type="checkbox" tabindex="2">HSC
+                <input type="checkbox" accesskey="i">BSC
+                <input type="checkbox">MSC
+                <input type="checkbox" tabindex="1">Phd
+                <input type="checkbox">None
+                </td>
+            </tr>
+
+
+               </form>
+            </table>
+
+
+               <form action="">
+                <fieldset>
+                    <legend style="text-align: center;">Login Form</legend>
+                    <label for="">Email</label>&nbsp; &nbsp;
+                    <input type="email" placeholder="Enter your email" required><br><br>
+
+                    <label for="">Password</label>
+                    <input type="password" required><br><br>
+
+                    <button style="background-color: blue; color:white; width: 100px; border: 1px solid transparent;">Login</button>
+                </fieldset>
+               </form>
+            
+
+               
+    </blockquote>
+	Unicode Transformation Format (UTF).&#10060
+</body>
+</html>

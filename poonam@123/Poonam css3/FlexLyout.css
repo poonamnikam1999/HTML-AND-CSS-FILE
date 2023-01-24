@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    height: 100vh;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: aqua;
+    height: 20%;
+}
+
+main{
+    background-color: red;
+    height: 70%;
+    display: flex;
+
+}
+
+nav{
+    background-color: green;
+    flex-basis: 25%;
+}
+
+section{
+    background-color: pink;
+    flex-basis: 55%;
+}
+article{
+    background-color: rgb(2, 65, 65);
+    flex-basis: 20%;
+}
+
+footer{
+    background-color: purple;
+    height: 10%;
+}

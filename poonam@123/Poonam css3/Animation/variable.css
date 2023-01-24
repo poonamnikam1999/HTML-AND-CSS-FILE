@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(0, 38, 255, 0.547);
+}
+h2{
+    color: black;
+    font-family: Lucida Calligraphy;
+    text-align: center;
+}
+table{
+    background-color: white;
+    height: 200px;
+}
+.style{
+    color:blueviolet;
+   margin: 7px;
+   font-size: large;
+   
+   
+}

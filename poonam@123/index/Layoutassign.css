@@ -1,0 +1,83 @@
+*{
+margin:0px;
+padding:0px;
+}
+.main{
+height:1000px;
+width:1200px;
+background-color:black;
+margin:auto;
+}
+.header{
+height:100px;
+width:1200px;
+background-color:white;
+font-size:30px;
+text-align:center;
+color:darkblue;
+font-family:Lucida Calligraphy;
+
+}
+.menu{
+height:50px;
+width:1200px;
+background-color:white;
+}
+.menu ul li{
+float:left;
+	list-style:none;
+	display:block;
+	height:40px;
+	background-color:orange;
+	width:180px;
+	margin-top:5px;
+	margin-left:15px;
+	text-align:center;
+	line-height:40px;
+	border-radius:15px;
+	font-family:Lucida Calligraphy;
+	font-weight:bold;
+}
+.menu ul li:hover{
+	background-color:blue;
+	color:white;
+}
+.banner{
+height:350px;
+width:1200px;
+background-color:teal;
+}
+.content{
+height:400px;
+width:1200px;
+background-color:coral;
+}
+.author{
+height:400px;
+width:350px;
+background-color:aqua;
+float:left;
+}
+
+.author ul li{
+	margin-left:30px;
+	font-size:16px;
+	font-weight:bold;
+}
+.cont{
+height:400px;
+width:850px;
+background-color:red;
+float:left;
+}
+.cont ul li{
+	margin-left:30px;
+	font-size:16px;
+	font-family:Lucida Calligraphy;
+	font-weight:bold;
+}
+.footer{
+height:100px;
+width:1200px;
+background-color:green;
+}
